@@ -8,4 +8,3 @@ def get(url):
     fp.close()
     return html_str
 
-
